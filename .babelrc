@@ -9,6 +9,7 @@
       }
     ],
     "react",
+    "react-hmre",
     "stage-0"
   ]
 }
